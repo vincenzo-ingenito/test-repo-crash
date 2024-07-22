@@ -1,9 +1,13 @@
 {
-  "counter" : 1,
-  "dataAggiornamento" : "22-07-2024 14:43:11",
+  "counter" : 2,
+  "dataAggiornamento" : "22-07-2024 14:43:20",
   "issuers" : [ {
     "nome" : "integrity:S1#VILAZIO",
     "regione" : "REGIONE_LAZIO",
     "cfPaziente" : "RGNLZI92S19L259C"
+  }, {
+    "nome" : "integrity:S1#VICAMPANIA3SUD",
+    "regione" : "REGIONE_CAMPANIA",
+    "cfPaziente" : "NGNVCN92S19L259C"
   } ]
 }
