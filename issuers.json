@@ -1,8 +1,9 @@
 {
   "counter" : 1,
-  "dataAggiornamento" : "22-07-2024 11:24:43",
+  "dataAggiornamento" : "22-07-2024 11:27:46",
   "issuers" : [ {
     "nome" : "integrity:S1#VILAZIO",
-    "regione" : "REGIONE_LAZIO"
+    "regione" : "REGIONE_LAZIO",
+    "cfPaziente" : "RGNLZI92S19L259C"
   } ]
 }
