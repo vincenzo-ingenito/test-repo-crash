@@ -1,0 +1,14 @@
+{
+  "counter" : 3,
+  "dataAggiornamento" : "25-07-2024 11:41:52",
+  "issuers" : [ {
+    "nome" : "integrity:S1#VILAZIO",
+    "regione" : "REGIONE_LAZIO"
+  }, {
+    "nome" : "integrity:S1#VICAMPANIA3SUD",
+    "regione" : "REGIONE_CAMPANIA"
+  }, {
+    "nome" : "integrity:S1#VICAMPANIA1NORD",
+    "regione" : "REGIONE_CAMPANIA"
+  } ]
+}
