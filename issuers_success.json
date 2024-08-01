@@ -1,8 +1,5 @@
 {
-  "counter" : 1,
-  "dataAggiornamento" : "01-08-2024 16:02:16",
-  "issuers" : [ {
-    "nome" : "integrity:S1#VILAZIO",
-    "regione" : "REGIONE_LAZIO"
-  } ]
+  "counter" : 0,
+  "dataAggiornamento" : "01-08-2024 16:03:28",
+  "issuers" : [ ]
 }
